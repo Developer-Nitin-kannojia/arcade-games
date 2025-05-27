@@ -1,1 +1,0 @@
-"""Rocket Rumble game module."""
